@@ -9,7 +9,7 @@
 <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/aniledev/readme-boilerplate">
 
 ![GitHub top language](https://img.shields.io/github/languages/top/aniledev/readme-boilerplate)
-<img alt="GitHub code size in bytes" src="tps://img.shields.io/github/languages/top/aniledev/readme-boilerplate">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/top/aniledev/readme-boilerplate>
 
 
 
