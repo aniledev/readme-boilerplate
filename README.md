@@ -14,12 +14,12 @@
 <details open="open">
   <summary>Contents</summary>
   <ol>
-    <li><a href="#about">About This Project</a></li>
+    <li><a href="#about-this-project">About This Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#technical-aspects">Technical Aspects</a></li>
     <li><a href="#upcoming-features">Upcoming Features</a></li>
     <li><a href="#deployment">Deployment</a></li>
-  <li><a href="#react">Getting Started with Create React App</a></li>
+    <li><a href="#getting-started-with-create-react-ap">Getting Started with Create React App</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#connect-with-me">Connect With Me</a></li>
   </ol>
