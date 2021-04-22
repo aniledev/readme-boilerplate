@@ -2,19 +2,16 @@
 <h1 align="center">FIFO Pet Adoption Website</h1>
 <h3 align="center">A passionate full-stack developer by day and a genre-bending music head by night.</h3>
 
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/aniledev/readme-boilerplate">
-
 ![GitHub language count](https://img.shields.io/github/languages/count/aniledev/readme-boilerplate)
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/count/aniledev/readme-boilerplate">
 
 ![GitHub top language](https://img.shields.io/github/languages/top/aniledev/readme-boilerplate)
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/aniledev/readme-boilerplate">
+<img alt="GitHub code size in bytes" src="tps://img.shields.io/github/languages/top/aniledev/readme-boilerplate">
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aniledev/readme-boilerplate)
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/aniledev/readme-boilerplate">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/aniledev/readme-boilerplate)
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/aniledev/readme-boilerplate">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/repo-size/aniledev/readme-boilerplate">
 
 ## Contents
 
