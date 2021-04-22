@@ -19,7 +19,7 @@
     <li><a href="#technical-aspects">Technical Aspects</a></li>
     <li><a href="#upcoming-features">Upcoming Features</a></li>
     <li><a href="#deployment">Deployment</a></li>
-    <li><a href="#getting-started-with-create-react-ap">Getting Started with Create React App</a></li>
+    <li><a href="#getting-started-with-create-react-app">Getting Started with Create React App</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#connect-with-me">Connect With Me</a></li>
   </ol>
