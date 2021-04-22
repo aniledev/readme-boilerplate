@@ -17,9 +17,11 @@
     <li><a href="#about">About This Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#technical-aspects">Technical Aspects</a></li>
-    <li><a href="#deployment">Deployment</a></li>
     <li><a href="#upcoming-features">Upcoming Features</a></li>
+    <li><a href="#deployment">Deployment</a></li>
+  <li><a href="#react">Getting Started with Create React App</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#connect">Connect With Me</a></li>
   </ol>
 </details>
 
@@ -55,6 +57,12 @@ This [full stack/front end/back end] [type of application] relies on :
 - Responsive and mobile-first design
 - Follows a11y best practices
 - Deployment using Vercel
+
+## Upcoming Features
+
+- User can create multiple lists
+- User can leave comments and reviews based on a book
+- User can share the books through social media
 
 ## Deployment
 [Deployed with Vercel](https://petful-omega.vercel.app/)
@@ -99,12 +107,6 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Upcoming Features
-
-- User can create multiple lists
-- User can leave comments and reviews based on a book
-- User can share the books through social media
 
 <!-- ACKNOWLEDGEMENTS -->
 
