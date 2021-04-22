@@ -118,6 +118,22 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 - [Thinkful Coding Bootcamp](https://www.thinkful.com/)
 
 ## Connect With Me
+🔭 I’m currently working on **mastering data structures and complex algorithms.**
+
+🌱 I’m currently learning **the fundamentals of Angular.**
+
+🤝 I’m looking for help with **networking as a new dev in the community.**
+
+👨‍💻 All of my projects are available [here](https://aniledev.github.io/dev-portfolio/)
+
+💬 Ask me about **the ease of the PERN stack.**
+
+📫 The best way to reach me is by email: **elinamcgill@gmail.com**
+
+📄 Check out [my resume of experiences](https://docs.google.com/document/d/1bxScP6d6Olv4QE5icvVSBI9L2EXfiZyZ2j2SDJhkoes/edit?usp=sharing)
+
+⚡ Fun fact **Hiatus Kaiyote is my favorite band at the moment.**
+
 <p align="left">
 <a href="https://linkedin.com/in/elina-mcgill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elina-mcgill" height="30" width="40" /></a>
 </p>
