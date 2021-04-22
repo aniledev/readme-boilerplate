@@ -1,6 +1,6 @@
 <!-- TABLE OF CONTENTS -->
-<h1 align="center">FIFO Pet Adoption Website</h1>
-<h3 align="center">A passionate full-stack developer by day and a genre-bending music head by night.</h3>
+<h1 align="center">Project Name</h1>
+<h3 align="center">A [full-stack/front-end/back-end] [application/client/server/etc] that [what the project does]</h3>
 
 <p align="center">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/aniledev/readme-boilerplate">
@@ -9,37 +9,29 @@
 <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/aniledev/readme-boilerplate">
 </p>
 
-
-
-
-
 ## Contents
 
 <details open="open">
   <summary>Contents</summary>
   <ol>
-    <li><a href="#deployment">Deployment</a></li>
     <li><a href="#about">About This Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#technical-aspects">Technical Aspects</a></li>
+    <li><a href="#deployment">Deployment</a></li>
     <li><a href="#upcoming-features">Upcoming Features</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
-## Deployment
-
-https://petful-omega.vercel.app/
-
 ## About This Project
 
-In this project, I created a FIFO (First In First Out) pet adoption service using a queue data structure. This full stack application has a custom built RESTful API using Express and allows for CRUD actions. It is powered by a queue data structure and JavaScript.
+Description of the project
 
-![Petful Image 1](https://github.com/aniledev/petful-client/blob/master/src/images/petful-landing-image.png?raw=true)
+![Project Image 1](https://images.unsplash.com/photo-1554306274-f23873d9a26c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80)
 
-![Petful Image 2](https://github.com/aniledev/petful-client/blob/master/src/images/petful-adopt-image-1.png?raw=true)
+![Project Image 2](https://github.com/aniledev/petful-client/blob/master/src/images/petful-adopt-image-1.png?raw=true)
 
-![Petful Image 3](https://github.com/aniledev/petful-client/blob/master/src/images/petful-adopt-image-3.png?raw=true)
+![Project Image 3](https://github.com/aniledev/petful-client/blob/master/src/images/petful-adopt-image-3.png?raw=true)
 
 ## Built With
 
@@ -66,6 +58,9 @@ This full stack pet adoption application relies on :
 - Responsive and mobile-first design
 - Follows a11y best practices
 - Deployment using Vercel
+
+## Deployment
+[Deployed with Vercel](https://petful-omega.vercel.app/)
 
 ## Getting Started with Create React App
 
