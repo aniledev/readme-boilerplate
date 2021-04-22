@@ -1,5 +1,3 @@
-# FIFO Pet Adoption Website
-
 <!-- TABLE OF CONTENTS -->
 <h1 align="center">FIFO Pet Adoption Website</h1>
 <h3 align="center">A passionate full-stack developer by day and a genre-bending music head by night.</h3>
