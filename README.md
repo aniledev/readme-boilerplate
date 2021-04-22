@@ -116,3 +116,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 - [Font Awesome](https://fontawesome.com)
 - [Jest](https://jestjs.io/)
 - [Thinkful Coding Bootcamp](https://www.thinkful.com/)
+
+## <h2 align="left">Connect with me</h2>
+<p align="left">
+<a href="https://linkedin.com/in/elina-mcgill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elina-mcgill" height="30" width="40" /></a>
+</p>
